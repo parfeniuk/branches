@@ -1,8 +1,11 @@
 // Master file for this Project
 
+// Prototypes
 public int Multiply(int a, int b);
 public int Devide(int a, int b);
 
+
+// Functions
 public int Sum(int a, int b)
 {
   return a+b;
