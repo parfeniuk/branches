@@ -1,3 +1,8 @@
+// Master file for this Project
+
+public int Multiply(int a, int b);
+public int Devide(int a, int b);
+
 public int Sum(int a, int b)
 {
   return a+b;
